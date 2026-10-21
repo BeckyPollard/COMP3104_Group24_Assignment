@@ -1,3 +1,13 @@
+Course: COMP DevOps
+Student ID: 101468069
+
+DevOps Principles & CI/CD Pipeline Concepts:
+- Continuous Integration (CI): The practice of automating the integration of code changes from multiple contributors into a shared central repository frequently. Automated builds and tests run on every push to detect bugs early.
+- Continuous Delivery / Deployment (CD): Automating the release of validated code changes to staging or production environments, minimizing manual overhead and deployment friction.
+- Jenkins & GitHub Actions: Automation servers used to define workflows, trigger builds via webhooks, execute automated test suites, and manage pipeline artifacts seamlessly.
+- Feedback Loops: Quick notifications and status checks (like green pipeline checks) ensure high code quality and team visibility across shared repositories.
+- Automated Triggers: Configuring GitHub Webhooks to notify Jenkins on every repository push or pull request merge to initiate automated builds immediately.
+
 COMP 3104 - DevOps Methodology & CI/CD Course Summary
 
 Course Overview:
