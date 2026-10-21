@@ -2,7 +2,7 @@
 
 ## Group Members
 - **Leader:** Becky Pollard (100996193) - [GitHub](https://github.com/BeckyPollard)
-- **Member 2:** ___________ (#########) - [GitHub](https://github.com/)
+- **Member 2:** Dharwyn Ivor Olpindo (101468069) - [GitHub](https://github.com/Dharwyn-Ivor-Olpindo)
 - **Member 3:** ___________ (#########) - [GitHub](https://github.com/)
 
 ## Project Description
