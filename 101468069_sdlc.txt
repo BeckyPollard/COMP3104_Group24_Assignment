@@ -1,3 +1,14 @@
+Software Development Life Cycle (SDLC) Notes
+Student ID: 101468069
+
+Phases of the SDLC:
+1. Planning & Requirement Analysis: Defining project scope, stakeholder requirements, and task breakdowns (e.g., Sprint tasks for team projects like "Gather").
+2. Design & Architecture: Structuring repository layouts, branching strategies, and UI/UX mockups.
+3. Implementation (Coding): Writing modular source code, handling localized features, and tracking progress through iterative commits.
+4. Testing & Quality Assurance: Running automated CI pipelines, unit testing, and code reviews via Pull Requests.
+5. Deployment & Maintenance: Releasing software builds, monitoring runtime logs, and handling iterative updates and bug fixes.
+- Version Control Integration: Git and GitHub act as the backbone of the SDLC, enabling transparent team collaboration, branch isolation, and historical auditing.
+
 The Importance of DevOps and CI/CD in the Software Development Lifecycle (SDLC)
 
 Introduction:
