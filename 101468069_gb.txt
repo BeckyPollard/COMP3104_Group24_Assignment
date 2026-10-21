@@ -1,3 +1,13 @@
+Student Name: Dharwyn Ivor Olpindo
+Student ID: 101468069
+Institution: George Brown Polytechnic / George Brown College
+Program: Computer Programming and Software Development
+Campus: Waterfront / Casa Loma Campus
+Course: COMP DevOps & Software Development Lab
+
+College Overview & Academic Environment:
+George Brown College provides rigorous hands-on technical training in software engineering, mobile application development, and modern DevOps methodologies. The curriculum emphasizes industry-standard practices including version control with Git, automated build pipelines, containerization, and collaborative team project lifecycles.
+
 George Brown College - Institutional Overview
 
 George Brown College of Applied Arts and Technology is a prominent post-secondary institution located in downtown Toronto, Ontario. The college offers a wide variety of diploma, degree, and postgraduate programs tailored to meet modern industry standards.
