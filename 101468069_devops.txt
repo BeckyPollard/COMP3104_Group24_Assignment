@@ -6,6 +6,7 @@ DevOps Principles & CI/CD Pipeline Concepts:
 - Continuous Delivery / Deployment (CD): Automating the release of validated code changes to staging or production environments, minimizing manual overhead and deployment friction.
 - Jenkins & GitHub Actions: Automation servers used to define workflows, trigger builds via webhooks, execute automated test suites, and manage pipeline artifacts seamlessly.
 - Feedback Loops: Quick notifications and status checks (like green pipeline checks) ensure high code quality and team visibility across shared repositories.
+- Automated Triggers: Configuring GitHub Webhooks to notify Jenkins on every repository push or pull request merge to initiate automated builds immediately.
 
 COMP 3104 - DevOps Methodology & CI/CD Course Summary
 
