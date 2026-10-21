@@ -27,3 +27,5 @@ Key Contributions of DevOps & CI/CD to the SDLC:
 
 4. Enhanced Team Collaboration & Risk Mitigation:
    DevOps eliminates barriers between developers, QA testers, and operations teams. Features like Pull Requests, clear branching models, and standardized review templates encourage peer reviews and shared accountability. Making smaller, frequent commits reduces merge conflicts and allows safe rollbacks if a failure occurs.
+
+- Agile & Scrum Methodology: Utilizing short, iterative sprint cycles (such as Sprint 1 deliverables) to continuously collect stakeholder feedback and adapt development requirements.
