@@ -1,0 +1,23 @@
+COMP 3104 - DevOps Methodology & CI/CD Course Summary
+
+Course Overview:
+This course introduces fundamental concepts and practices in DevOps, bridging the traditional gap between software development (Dev) and IT operations (Ops). The curriculum emphasizes build automation, version control, continuous integration, continuous delivery, and collaborative software management.
+
+Key Learning Outcomes & Tooling:
+1. Version Control & Git Management:
+   - Managing source code repositories using Git and GitHub.
+   - Practicing branching strategies such as per-developer and feature-branch workflows.
+   - Collaborating through Pull Requests, code reviews, and resolving merge conflicts.
+
+2. Continuous Integration & Continuous Deployment (CI/CD):
+   - Setting up automated workflows using platforms like GitHub Actions and Jenkins.
+   - Understanding Jenkins automation server concepts, including Stages, Steps, and codified build scripts like the Jenkinsfile.
+   - Triggering builds on code check-ins, monitoring pipeline health, and deploying to test and production environments automatically.
+
+3. Containerization & Automation:
+   - Utilizing Docker container environments to maintain consistency across development, testing, and production.
+   - Utilizing build tools (Apache Maven, Gradle, Ant) and configuration management.
+
+4. DevOps Culture & Best Practices:
+   - Understanding continuous feedback loops, automated testing, and static code quality analysis.
+   - Standardizing documentation using Markdown, automated PR templates, and issue tracking tools to streamline team communication.
