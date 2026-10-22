@@ -3,7 +3,7 @@
 ## Group Members
 - **Leader:** Becky Pollard (100996193) - [GitHub](https://github.com/BeckyPollard)
 - **Member 2:** Dharwyn Ivor Olpindo (101468069) - [GitHub](https://github.com/Dharwyn-Ivor-Olpindo)
-- **Member 3:** ___________ (#########) - [GitHub](https://github.com/)
+- **Member 3:** Brent Joshua Samson (101580271) - [GitHub](https://github.com/GGBrent0628)
 
 ## Project Description
 This repository hosts the group assignment for COMP3104 DevOps course, focusing on collaborative Git workflows, branching strategies, and CI/CD integration.
