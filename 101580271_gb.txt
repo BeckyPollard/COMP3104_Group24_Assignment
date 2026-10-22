@@ -22,3 +22,11 @@ My Program
 I am enrolled in the Computer Programming and Analysis (T177) advanced diploma, a three-year
 program covering software development, databases, web and mobile
 development, and DevOps.
+
+
+School Life
+
+School life has been enjoyable and difficult at the same time.
+I learned a lot but working while studying also takes a toll.
+Overall GBC offers a lot like tutoring, library, student counselling and 
+student clubs too.
