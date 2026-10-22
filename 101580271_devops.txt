@@ -11,4 +11,7 @@ tools like GitHub Actions, Travis CI, and Jenkins, cloud infrastructure,
 test automation and code quality with SonarQube, and containerization
 with Docker.
 
+Career Relevance
 
+The course also prepares students for DevOps roles by covering market
+demand, required skills, and certification opportunities.
