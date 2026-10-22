@@ -14,7 +14,7 @@ This repository hosts the group assignment for COMP3104 DevOps course, focusing 
 3. Install any dependencies as listed, there are none though.
 
 ## CI/CD Pipeline
-The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/ci.yml`.
+The project utilizes GitHub Actions for continuous integration. The workflow is defined in `.github/workflows/demo.yml`.
 
 ## Branching Strategy
 Each member has their own branch named `STUDENTID-Name`. All changes are merged into the `main` branch via Pull Requests.
