@@ -9,3 +9,8 @@ Traditionally, development and operations teams worked separately,
 causing delays. DevOps brings them together and automates each phase
 using CI/CD pipelines, so code is built, tested, and deployed
 continuously.
+
+Why is devops important?
+
+DevOps is important because it makes the SDLC faster, more reliable,
+and more collaborative, helping teams deliver better software.
