@@ -1,0 +1,4 @@
+Devops in the Software Development Lifecycle
+
+The software development lifecycle (SDLC) is the process of planning,
+coding, building, testing, releasing, deploying, and monitoring software.
