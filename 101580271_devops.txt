@@ -1,0 +1,5 @@
+DevOps Course (COMP 3104)
+
+COMP 3104 teaches the practices a DevOps engineer brings to the
+workplace to improve productivity. Students analyze different DevOps
+implementations and do hands-on work with industry-standard tools.
