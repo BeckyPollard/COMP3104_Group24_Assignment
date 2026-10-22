@@ -16,3 +16,9 @@ Campuses
 George Brown Polytechnic has three main campuses in Toronto: St. James
 (business, hospitality, and arts), Casa Loma (technology and
 construction), and Waterfront (health sciences).
+
+
+My Program 
+I am enrolled in the Computer Programming and Analysis (T177) advanced diploma, a three-year
+program covering software development, databases, web and mobile
+development, and DevOps.
